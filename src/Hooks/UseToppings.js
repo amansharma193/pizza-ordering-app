@@ -17,7 +17,7 @@ export function useToppings(defaultTopping){
 
 function getDefaultToppings(){
   return ToppingsList.map(topping=>({
-    name: toppings,
+    name: topping,
     checked:false
   }))
 }

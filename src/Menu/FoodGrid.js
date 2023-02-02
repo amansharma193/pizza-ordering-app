@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Title } from "../style/title";
+import { Title } from "../Style/title";
 export const FoodGrid=styled.div`
   display:grid;
   grid-template-columns: 1fr 1fr;
@@ -12,6 +12,7 @@ export const Food = styled.div`
   background-image: ${({img})=> `url(${img})`};
   background-position: center;
   background-size: cover;
+  cursor: pointer;
 `
 
 export const FoodLabel=styled(Title)`

@@ -5,7 +5,7 @@ export const GlobalStyle=createGlobalStyle`
     padding:0;
     font-family: 'Open Sans', sans-serif;
   }
-  h1,h2,h3{
+  h1,h2,h3,span,button,div{
     font-family: 'Righteous', cursive;
   }
 `

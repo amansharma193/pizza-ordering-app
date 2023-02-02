@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import { PizzaColor } from "../style/color";
-import { Title } from "../style/title";
+import { PizzaColor } from "../Style/color";
+import { Title } from "../Style/title";
 const NavbarStyle=styled.div`
   background-color:${PizzaColor};
   position: fixed;
