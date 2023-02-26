@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/pizza-ordering-app/static/js/main.a1f1b58f.chunk.js",
-    "main.js.map": "/pizza-ordering-app/static/js/main.a1f1b58f.chunk.js.map",
+    "main.js": "/pizza-ordering-app/static/js/main.f5e96231.chunk.js",
+    "main.js.map": "/pizza-ordering-app/static/js/main.f5e96231.chunk.js.map",
     "runtime-main.js": "/pizza-ordering-app/static/js/runtime-main.cb98ebba.js",
     "runtime-main.js.map": "/pizza-ordering-app/static/js/runtime-main.cb98ebba.js.map",
     "static/js/2.3acb0cde.chunk.js": "/pizza-ordering-app/static/js/2.3acb0cde.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.cb98ebba.js",
     "static/js/2.3acb0cde.chunk.js",
-    "static/js/main.a1f1b58f.chunk.js"
+    "static/js/main.f5e96231.chunk.js"
   ]
 }
